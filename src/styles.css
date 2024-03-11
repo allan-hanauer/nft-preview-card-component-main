@@ -43,6 +43,7 @@ main figure {
   transition: 0.8s;
 }
 main figure:hover:before {
+  cursor: pointer;
   content: "";
   width: 100%;
   height: 100%;
