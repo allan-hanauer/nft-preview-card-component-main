@@ -31,7 +31,6 @@ main {
   height: 100%;
   max-width: 350px;
   max-height: 600px;
-  margin-top: 100px;
   padding: 24px;
   border-radius: 15px;
   box-shadow: 0px 0px 20px 20px hsla(216, 68%, 9%, 0.5);
